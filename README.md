@@ -53,7 +53,9 @@ Feel free to add any resources which you find useful! If you would like to do so
   
 ### Genetic circuit design<a name="paper-genetic-circuit-design">
 - Jennifer A. N. Brophy, Christopher A. Voigt, [Principles of genetic circuit design](https://www.nature.com/articles/nmeth.2926), *Nature Methods* (2014)
-- Alec A. K. Nielsen, Bryan S. Der, Jonghyeon Shin, Prashant Vaidyanathan, Vanya Paralanov, Elizabeth A. Strychalski, David Ross, Douglas Densmore, Christopher A. Voigt, [Genetic circuit design automation](http://science.sciencemag.org/content/352/6281/aac7341), *Science*
+- Alec A. K. Nielsen, Bryan S. Der, Jonghyeon Shin, Prashant Vaidyanathan, Vanya Paralanov, Elizabeth A. Strychalski, David Ross, Douglas Densmore, Christopher A. Voigt, [Genetic circuit design automation](http://science.sciencemag.org/content/352/6281/aac7341), *Science* (2016)  
+- Lesia Bilitchenko, Adam Liu, Sherine Cheung, Emma Weeding, Bing Xia, Mariana Leguia, J. Christopher Anderson, Douglas Densmore, [Eugene – A Domain Specific Language for Specifying and Constraining Synthetic Biological Parts, Devices, and Systems](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018882), *PLoS One* (2011)
+
   
 ### In silico design<a name="papers-in-silico-design">
 - Paul François, [Evolving phenotypic networks in silico](https://www.sciencedirect.com/science/article/pii/S1084952114001852), *Seminars in Cell & Developmental Biology* (2014)
